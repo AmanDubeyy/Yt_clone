@@ -6,7 +6,7 @@ import {Navbar, Feed, VDetail, CDetail, Search} from './components';
 const App = () => {
   return (
     <BrowserRouter>
-    <Box sx={{backgroundColor : '#000'}}>
+    <Box sx={{backgroundColor: 'blue', background: 'radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(64, 64, 64) 90.2%)'}}>
       <Navbar/>
       <Routes>
         <Route path="/" exact element={<Feed/>}/>
