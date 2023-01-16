@@ -12,7 +12,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 import SportsCricketIcon from '@mui/icons-material/SportsCricket'
 
-export const logo = 'https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Player-Video-icon.png';
+export const logo = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunVLt4vP1ovvmiU1x5SJpbaQ5O5IYuVhO2dhbYK7cfA&s';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
